@@ -79,6 +79,13 @@ form button {
   border-radius: 5px;
   display: block;
 }
+.hd {
+  margin-left: 400px;
+}
+.hd1 {
+  margin-left: 150px;
+  color: yellow;
+}
 
 form button {
   background-color: #5952c6;
@@ -90,11 +97,26 @@ form button {
   nav {
     flex-direction: column;
     text-align: center;
+    padding: 20px 10px;
   }
+  nav a {
+    margin: 5px 0;
+  }
+
   .container {
     padding: 5px;
   }
   .house-card {
     padding: 10px;
+  }
+  .hd {
+    margin-left: 40px;
+    margin-top: 40px;
+  }
+  form {
+    width: 280px;
+  }
+  .hd1 {
+    margin-left: 20px;
   }
 }
