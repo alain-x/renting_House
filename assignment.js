@@ -1,7 +1,7 @@
 const houses = [
   {
     id: 1,
-    name: "Muhima Apartment",
+    name: "Muhima House",
     address: "Muhima near Adventist Church",
     bedrooms: 2,
     bathrooms: 1,
@@ -9,9 +9,20 @@ const houses = [
     image:
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
+
   {
     id: 2,
-    name: "Gashuriro Apartment",
+    name: "Gahanga House",
+    address: "near to Gahanga Sector",
+    bedrooms: 5,
+    bathrooms: 2,
+    price: 20000000,
+    image:
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 2,
+    name: "Gashuriro House",
     address: "near to Gacuriro Sector",
     bedrooms: 2,
     bathrooms: 1,
