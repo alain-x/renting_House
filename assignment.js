@@ -5,17 +5,17 @@ const houses = [
     address: "Muhima near Adventist Church",
     bedrooms: 2,
     bathrooms: 1,
-    price: 1000,
+    price: 10000000,
     image:
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     id: 2,
-    name: "Muhima Apartment",
-    address: "Muhima near Adventist Church",
+    name: "Gashuriro Apartment",
+    address: "near to Gacuriro Sector",
     bedrooms: 2,
     bathrooms: 1,
-    price: 1000,
+    price: 10000000,
     image:
       "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
@@ -25,7 +25,7 @@ const houses = [
     address: "KN 22 St",
     bedrooms: 4,
     bathrooms: 3,
-    price: 5000,
+    price: 50000000,
     image:
       "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
